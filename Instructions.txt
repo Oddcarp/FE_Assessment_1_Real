@@ -1,0 +1,103 @@
+# Assessment 1
+-In this  assessment we are going to evaluate your knowledge of CSS selectors and CSS properties.  You are welcome to use any resources available to complete the work except your peers and the instructor.
+-
+-You may ask the instructor for clarification on any questions or parts. Skip over any parts you get stuck on.
+-
+-Create a Github Repository to submit your completed work.
+-
+-
+-## Grading Criteria (in order of priority and rough percentange)
+-- Completeness -  30%
+-- Valid HTML and CSS - 30%
+-- Accuracy to image - 20%
+-- Cleanliness of Code - 10%
+-- Accuracy of HTML5 usage - 5%
+-- Usefulness of comments - 5%
+-
+-## Part 1
+-Apply the following styles to the following element types.
+-
+-- `body`
+-  - set the text color to `#3a3a3a` asdf
+-  - set the background to `#e3e3e3` asdf
+-  - set the default font to `Arial, Helvetica, sans-serif;` asdf
+-  - set all the margins to 0 pixels. asdf
+-- `h1`
+-    - Set the text size to 40 pixels asdf
+-- `h2`
+-    - Set the text size to 20 pixels asdf
+-- `a`
+-  - set the font color to `#3a3a3a` asdf
+-- `h1`, `h2`, `h3`, `h4`, and `h5`
+-  - Use a group selector to set all of these element's margins to 0 pixels asdf
+-
+-
+-## Part 2 - Header and Wrapper
+-Apply the following styles to elements in the heading area. Replace elements with HTML5 elements if you see fit.
+-
+-- element below the comment Main Content
+-    - Set the background color to `#ffffff`;  asdf
+-    - Set the top and bottom margins to 0. asdf
+-    - Center the element using left and right margins asdf
+-- element below the comment Site Header
+-    - Override the font color and set it to `#ffffff`asdf
+-    - Add 20 pixels of spacing inside of it asdf
+-    - Set the background color to `#89bdd3` or your brand color asdf
+-
+-- `h2` inside of the Site Header
+-    - make the text italicized asdf
+-
+-## Part 3 - Navigation
+-Replace elements with HTML5 elements if you see fit.
+-
+-- element below Main Navigation
+-    - set the background color to `#9ad3de` or your brand color asdf
+-    - Add a top and bottom border that is 1 pixel thick solid and `#3a3a3a` asdf
+-- `a` inside the element Main Navigation asdf
+-    - Make the text bold asdf
+-    - Add 20 pixels of spacing inside of it asdf
+-    - Remove the underline  asdf
+-    - Show an underline when hovered over asdf
+-    - Make them display in a single line. asdf
+-
+-## Part 4 - Article
+-Replace elements with HTML5 elements if you see fit.
+-
+-- element  below the Article comment asdf
+-    - Float the content to the left; asdf
+-    - Add 20 pixels of spacing inside of it asdf
+-    - Set its width to 60% asdf
+-- Article Header asdf
+-    - Center align all content in this element asdf
+-    - Add a 20 pixel bottom margin asdf
+-- Article Footer asdf
+-    - Add a top and bottom border that is 1 pixel thick solid and `#3a3a3a` asdf
+-    - Center align all content in this element asdf
+-- Image inside the Article Footer asdf
+-    - Add a 3 pixel border that is solid and has a color of `#3a3a3a` asdf
+-    - Set its border radius so it makes a complete circle asdf
+-    - Add 5 pixels of padding asdf
+-
+-## Part 5 - Side Bar
+-Replace elements with HTML5 elements if you see fit.
+-
+-- Sidebar element asdf
+-    - Float the element to the right asdf
+-    - add 20 pixels of padding to the top asdf
+-    - set the width to 30% asdf
+-- Sidebar item in the side bar
+-    - Add a border that is 1 pixel thick solid and `#3a3a3a` asdf
+-    - Add 10 pixels pixels of spacing inside of it asdf
+-    - Add a 20 pixel margin to all sides asdf
+-- List Items in the sidebar
+-    - Add a 5 pixel margin to top and bottom. asdf
+-
+-
+-## Part 6 - Commenting
+-Add a comment before the closing body tag that says what you thought was the most difficult portion of the assessment. asdf
+-
+-
+-## Bonus - JavaScript
+-- Add a script tag before the closing `body` tag asdf
+-- Inside the script tag create the following variable asdf
+-    - A string and populate it with your name. asdf
